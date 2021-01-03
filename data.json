@@ -1,0 +1,83 @@
+{
+  "details":{
+    "header":{
+      "name":"Lê Văn Tịnh",
+      "city":"Hue ",
+      "country":"Viet Nam",
+      "mobile":"0898221098",
+      "email":"levantinhlevantinh@gmail.com",
+      "Git":"",
+      "facebook":"https://www.facebook.com/tinhlevan.le.5",
+      "langues_know":"English",
+      "photo":"anhdaidien.jpg",
+      "print":[
+        "<button onclick='window.print()'>Print this page</button>"      
+      ]
+    },
+    "body":{
+      "PERSONAL INFORMATION":[
+        {
+          "title":"",
+          "subtitle":"",
+          "description":"I am a energetic person, actively seeking to learn, listening to ideas from everyone, with a high sense of responsibility.<br>Learning new languages and technologies is what I am passionate about. "
+        }
+      ],
+      
+      "CAREER OBJECTIVES":[
+        {
+          "title":"SHORT TERM:",
+          "subtitle":"",
+          "description":"Have a stable job, become a good programmer."
+        },
+        {
+          "title":"LONG TERM:",
+          "subtitle":"",
+          "description":"Become a full stack developer.<br>Improve managing and teamworking skills."
+        }
+        
+      ],
+      "EDUCATION":[
+        {
+          "title":"The University of Da Nang - University of Science and Education",
+          "subtitle":"2017-2021",
+          "description":"Bachelor of Science in Information Technology (Graduated – 2021)"
+        }, 
+        {
+          "title":"Softech Aptech Da Nang International Programmer Training Center",
+          "subtitle":"9/2019-4/2020",
+          "description":"PHP programmer certification"
+        },
+        {
+          "title":"Subjects studied:",
+          "subtitle":"2017-2021",
+          "description":"<b>PROGRAMMING LANGUAGES:</b>C++,PHP,JAVA,JavaScript<br><b>FRAMEWORKS & PLATFORMS:</b>LARAVEL, NodeJS ,ReactJS<br><b>DATABASE :</b>MySQL,SQLSever,MongoDB,<br>VERSION CONTROL :Git(Github)"
+        },
+{
+          "title":"Intership at FPT SoftWare Da Nang",
+          "subtitle":"11/2020-now",
+          "description":""
+        }
+      ],
+      "Experience":[
+        {
+          "title":"",
+          "subtitle":"",
+          "description":"Due to the fact that I am a fresh graduated. I do not have any experiences in field of information technology. So I hope that I could have an oppotunity to gain more job experiences in your company."
+        }
+      ],
+      "STRENGTH AND WEAKNESS:":[
+        {
+          "title":"STRENGTH:",
+          "subtitle":"",
+          "description":"Ability in working under pressure.<br>Good experience in React UI library Ant Design.<br>Good teamworking skills <br>Can search for specialized materials in English"
+        },
+         {
+          "title":"WEAKNESS:",
+          "subtitle":"",
+          "description":"Fair communication and presentation skills."
+        }
+      ]
+     
+    }
+  }
+}
